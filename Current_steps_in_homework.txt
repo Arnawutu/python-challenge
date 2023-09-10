@@ -1,2 +1,0 @@
-Built the git repository.
-Added main.py to both pypol and pybank.
